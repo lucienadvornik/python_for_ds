@@ -1,3 +1,0 @@
-this is line A
-this is line B
-this is line C
